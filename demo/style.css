@@ -1,0 +1,40 @@
+.container {
+    width: 1000px;
+    margin: 10px auto 0 auto;
+    color: #333;
+    text-align:center;
+    font-family:monospace;
+    font-weight:bold;
+}
+hr {
+    clear:both;
+    visibility:hidden;
+    margin:8px;
+}
+.m {
+    background-color: #BBB;
+}
+.s {
+    background-color: #DDD;
+}
+.margin-right {
+    margin-right: 8px;
+}
+.margin-left {
+    margin-left: 8px;
+}
+.x12 {
+    background-color: #BBF;
+}   
+.x13 {
+    background-color: #FBF;
+}  
+.x23 {
+    background-color: #FBB;
+} 
+.x14 {
+    background-color: #BFB;
+}   
+.x34 {
+    background-color: #BFF;
+}
